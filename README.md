@@ -22,4 +22,4 @@ Dedicated to the public domain. All rights waived.
 
 * When prompted by the tool, select whether you would like to 1.) convert a state name into its abbreviation or 2.) convert an abbreviation into its state name.
 * Enter the state name or abbreviation as requested.
-* Voila!
+* Voila! Recieve output and indicate whether you want to enter another state name or abbreviation or end the program.
