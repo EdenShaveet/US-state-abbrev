@@ -16,7 +16,7 @@ Automatically Generated 2021-09-11 18:04:36 via Jupyter Notebook from https://gi
 
 Conversion code developed by [Eden Shaveet](mailto:eden.shaveet@tufts.edu) in March, 2022.
 
-Dedicated to the public domain. All rights waived.
+Dedicated to the public domain.
 
 #### Tool Instructions:
 
